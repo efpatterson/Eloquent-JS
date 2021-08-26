@@ -1,0 +1,6 @@
+{
+    "type": "commonjs",
+    "scripts": {
+        "cy:open": "cypress open"
+    }
+}

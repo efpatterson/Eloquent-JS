@@ -1,0 +1,18 @@
+info:
+  title: My Swagger UI project
+  description: Tutorial to gain a better understanding of Swagger UI
+  version: 1.0
+
+
+paths: localhost:8080
+basePath: /
+tags:
+- name: users
+- description: returns all users in the system
+
+schemes:
+- http
+consumes:
+- application/json
+produces:
+- application/json
